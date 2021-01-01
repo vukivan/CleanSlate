@@ -857,6 +857,7 @@ character_event = {
 # Shieldmaiden gets dog back (or not, if it died already)
 character_event = {
 	id = 79008
+	picture = GFX_evt_hunting_scene
 	border = GFX_event_normal_frame_war
 
 	desc = {

@@ -709,11 +709,10 @@ narrative_event = {
 
 	option = {
 		name = EVTOPTA_CM_1050
-
+		custom_tooltip = { text = roland_arrives }
 		character_event = {
 			id = CM.1052
 			days = 350
-			text = roland_arrives
 		}
 	}
 

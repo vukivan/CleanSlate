@@ -899,6 +899,7 @@ character_event = {
 character_event = {
 	id = 77852
 	border = GFX_event_normal_frame_diplomacy
+	picture = GFX_evt_courtiers_talking
 
 	desc = {
 		trigger = {

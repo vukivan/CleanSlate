@@ -473,6 +473,7 @@ character_event = {
 character_event = {
 	id = SoA.5021
 	border = GFX_event_normal_frame_religion
+	picture = GFX_evt_pilgrims_epic_journey
 
 	desc = {
 		trigger = { has_character_flag = pilgrimage_to_canterbury }

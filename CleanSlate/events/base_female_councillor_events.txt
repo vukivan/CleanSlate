@@ -666,6 +666,7 @@ character_event = {
 # Female steward appears
 character_event = {
 	id = 77781
+	picture = GFX_evt_carriage
 	border = GFX_event_normal_frame_economy
 
 	desc = {
@@ -795,6 +796,7 @@ character_event = {
 # Female spymaster appears
 character_event = {
 	id = 77782
+	picture = GFX_evt_whispers
 	border = GFX_event_normal_frame_intrigue
 
 	desc = {

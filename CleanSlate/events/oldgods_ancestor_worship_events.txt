@@ -4671,6 +4671,7 @@ character_event = {
 character_event = {
 	id = TOG.7515
 	border = GFX_event_normal_frame_religion
+	picture = GFX_evt_child_reading
 
 	desc = {
 		trigger = { event_target:death_child = { has_character_flag = inspiring_tale } }

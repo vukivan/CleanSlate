@@ -2596,6 +2596,7 @@ character_event = {
 character_event = {
 	id = SoA.1031
 	border = GFX_event_normal_frame_religion
+	picture = GFX_evt_crusaders
 
 	desc = {
 		trigger = { event_target:holy_order_to_join = { title = d_knights_templar } }
@@ -3708,6 +3709,7 @@ letter_event = {
 province_event = {
 	id = SoA.1054
 	border = GFX_event_normal_frame_religion
+	picture = GFX_evt_castle_construction
 
 	desc = {
 		text = EVTDESC_SOA_1054
